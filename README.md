@@ -22,7 +22,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 - Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
 - Repository: [https://github.com/Alan77777777/Huddle-landing-page-with-alternating-feature-blocks.git](https://github.com/Alan77777777/Huddle-landing-page-with-alternating-feature-blocks.git)
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- Live Site URL: [https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/](https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/)
 
 ### Built with 🔨
 
