@@ -16,7 +16,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Screenshot
 
-📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷![](./images/SCREENSHOOT.png)
+![](./images/SCREENSHOOT.png)
 
 ### Links 
 
