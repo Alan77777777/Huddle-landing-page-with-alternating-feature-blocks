@@ -8,35 +8,44 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ## Table of contents
 
-  - [Screenshot](#screenshot) 📷 
+  - [Screenshot](#screenshot) 📷
   - [Links](#links) 🔗
   - [Built with](#built-with) 🔨
   - [Author](#author) 👽
 
 
-### Screenshot 📷
+### Screenshot
 
-![](./images/SCREENSHOOT.png)
+📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷![](./images/SCREENSHOOT.png)
 
-### Links 🔗
+### Links 
 
-- Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
-- Repository: [https://github.com/Alan77777777/Huddle-landing-page-with-alternating-feature-blocks.git](https://github.com/Alan77777777/Huddle-landing-page-with-alternating-feature-blocks.git)
-- Live Site URL: [https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/](https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/)
+🔗 Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-solution-fjx4JZSNjj](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-solution-fjx4JZSNjj)
 
-### Built with 🔨
+🔗 Repository: [https://github.com/Alan77777777/Huddle-landing-page-with-alternating-feature-blocks.git](https://github.com/Alan77777777/Huddle-landing-page-with-alternating-feature-blocks.git)
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- SASS
+🔗 Live Site URL: [https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/](https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/)
 
-## Author 👽
+### Built with 
 
-- Netlify - [Alan](https://app.netlify.com/teams/alan77777777/overview)
-- GitHub - [Alan77777777](https://github.com/Alan77777777)
-- Frontend Mentor - [@Alan77777777](https://www.frontendmentor.io/profile/Alan77777777)
+🔨 Semantic HTML5 markup
+
+🔨 CSS custom properties
+
+🔨 Flexbox
+
+🔨 CSS Grid
+
+🔨 Mobile-first workflow
+
+🔨 SASS
+
+## Author 
+
+👽 Netlify - [Alan](https://app.netlify.com/teams/alan77777777/overview)
+
+👽 GitHub - [Alan77777777](https://github.com/Alan77777777)
+
+👽 Frontend Mentor - [@Alan77777777](https://www.frontendmentor.io/profile/Alan77777777)
 
 
